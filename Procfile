@@ -1,1 +1,1 @@
-web: java -Dstore=memory -Dmode=demo -jar target/cart-1.0.0-SNAPSHOT.jar
+web: java -Dport=$PORT -Dstore=memory -Dmode=demo -jar target/cart-1.0.0-SNAPSHOT.jar
