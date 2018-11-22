@@ -5,8 +5,8 @@
 	<version>0.0.1</version>
 
 	<scm>
-	  <connection>scm:git:git@github.com:MaximeStudy/officiel-lab-production.git</connection>
-	  <developerConnection>scm:git:git@github.com:MaximeStudy/officiel-lab-production.git</developerConnection>
+	  <connection>scm:git:https://github.com/MaximeStudy/officiel-lab-production.git</connection>
+	  <developerConnection>scm:git:https://github.com/MaximeStudy/officiel-lab-production.git</developerConnection>
 	  <url>https://github.com/MaximeStudy/officiel-lab-production</url>
 	  <tag>cart-0.0.1</tag>
 	</scm>
