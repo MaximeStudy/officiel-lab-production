@@ -6,9 +6,6 @@
         </encoder>
     </appender>
 
-    <logger name="org.hibernate.SQL" level="DEBUG" />
-    <logger name="org.glassfish.jersey.servlet" level="ERROR" />
-    
     <root level="DEBUG">
         <appender-ref ref="STDOUT" />
     </root>
