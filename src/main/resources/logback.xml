@@ -7,7 +7,7 @@
     </appender>
 
     <logger name="org.hibernate.SQL" level="ERROR" />
-
+ 	<logger name="org.glassfish.jersey" level="ERROR"/>
     <root level="DEBUG">
         <appender-ref ref="STDOUT" />
     </root>
